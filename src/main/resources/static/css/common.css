@@ -1,0 +1,1303 @@
+.border {
+	padding: 5%;
+	border: none;
+	margin: 4% 8%;
+	border-radius: 2px;
+}
+
+.border-buy-lead {
+	width: 650px;
+	padding: 50px;
+	padding-left: 30px;
+	border: none;
+	margin: 350px;
+	margin-top: 60px;
+	border-radius: 2px;
+}
+
+.box-lead {
+	height: 35px;
+	width: 70px;
+	border: 1px solid #c0c0c0;
+	border-radius: 2px;
+}
+
+.box-lead-chart {
+	height: 35px;
+	/*width: 100px;*/
+	border: 1px solid #00c100;
+	border-radius: 2px;
+	color: #00c100;
+}
+
+.custom-background {
+	background-color: #ffffff;
+	background-image:
+		url('http://recruitershack.com/wp-content/uploads/2016/02/recruit-fast.jpg');
+	background-repeat: repeat;
+	background-position: top center;
+	background-attachment: fixed;
+}
+
+#unique {
+	background-color: white;
+}
+
+.site-footer {
+	background-color: #ffffff;
+}
+
+.site-footer {
+	color: #606060;
+}
+
+.site-footer {
+	color: #515b6a;
+	padding: 3em 0;
+	background-color: white;
+	overflow: hidden;
+}
+
+.footer-size {
+	width: 100%;
+	height: 250px;
+	border: none;
+}
+
+.um-right {
+	float: right;
+}
+
+.um-half {
+	width: 48%;
+}
+
+.text-align-center {
+	text-align: center;
+}
+
+.box-W-h {
+	width: 460px;
+	height: 40px;
+	border-radius: 2px;
+	border-style: solid;
+}
+
+.section-align {
+	padding-top: 0%;
+	padding-left: 30%;
+	padding-right: 20%;
+}
+
+.button-align {
+	height: 40px;
+	width: 230px;
+}
+
+.button-align1 {
+	height: 40px;
+	width: 200px;
+}
+
+.box-W-h {
+	width: 460px;
+	height: 40px;
+	border-radius: 2px;
+	border-style: solid;
+}
+
+.input-align {
+	height: 90px;
+	background-color: #eee;;
+	border-left: none;
+	border-top: none;
+}
+
+.input-align1 {
+	height: 40px;
+	background-color: #eee;;
+	border-left: none;
+	border-top: none;
+	padding: 8px;
+	margin:10px;
+}
+
+#submit-button {
+	height: 40px;
+	border-right: green;
+	border-bottom: none;
+	border-radius: 2px;
+	color: #10ac51;
+}
+
+.img-padding {
+	padding-left: 90px;
+}
+
+.li-padding {
+	padding-left: 900px;
+	padding-top: 10px;
+}
+
+.dropdown-padding {
+	padding-left: -900px;
+}
+
+.login-padding {
+	padding-top: 10px;
+}
+/* change  color for link name	*/
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.dropbtn {
+	background-color: #4CAF50;
+	color: white;
+	padding: 16px;
+	font-size: 16px;
+	border: none;
+	cursor: pointer;
+}
+
+a.go-to-account {
+	font-size: 16px !important;
+	border: 1px solid #00c648;
+	padding: 10px;
+	display: block;
+	margin-top: 5vh;
+	border-radius: 6px !important;
+}
+a.go-to-account:hover{
+	text-decoration:none;
+	background:#00c648;
+	color:#fff;
+}
+
+h2.upgrade-now {
+	font-size: 18px !important;
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+	text-align: justify;
+}
+
+hr.color {
+	display: #eee;
+	border-style: inset;
+	border-width: 0.5px
+}
+
+input#um_account_submit.um-button.enterprise-upgrade {
+	font-size: 16px !important;
+	border: 1px solid #00C648 !important;
+	color: #FFFFFF;
+	background-color: #00C648;
+	margin-bottom: 5vh;
+	border-radius: 6px !important;
+	padding:10px;
+}
+
+input.um-button[type="submit"], input.um-button[type="submit"]:focus {
+	vertical-align: middle !important;
+	height: auto !important;
+	font-size: 15px;
+	cursor: pointer !important;
+	width: 100%;
+	box-shadow: none;
+	text-shadow: none;
+	font-family: inherit;
+	outline: none !important;
+	margin: 0;
+	opacity: 1;
+	-webkit-appearance: none;
+}
+
+#account-features{
+	line-height:30px;
+}
+
+.primary-branding{
+	background:#fff;
+}
+
+
+#input-align {
+	width: 1090px;
+	height: 150px;
+	background-color: #eee;;
+	border-left: none;
+	border-top: none;
+	resize: vertical;
+}
+
+.et_contact_bottom_container {
+	float: right;
+	text-align: right;
+	margin-top: -1.5%;
+	overflow: hidden;
+}
+
+.et_pb_button {
+	text-shadow: none !important;
+	box-shadow: none !important;
+	background-color: transparent !important;
+}
+
+.et_pb_contact_submit {
+	color: #00ff40;
+	height: 45px;
+	width: 400px;
+	border-color: #00ff40;
+	border-radius: 4px;
+	border-style: #00ff40;
+	height: 45px;
+}
+
+#update-button {
+	background-color: #10ac51;
+	height: 40px;
+	font-size: 15px;
+	cursor: pointer;
+	width: 30%;
+	margin: 10%;
+	float: left;
+	color: white
+}
+
+.text-fiels {
+	height: 35px;
+	width: 400px;
+}
+
+.leftside-buttons {
+	height: 35px;
+	width: 200px;
+}
+
+#view-profile {
+	font-weight: 700;
+	color: #10ac51;
+	font-size: 14px;
+	line-height: 1.4em;
+	float: middle;
+	text-decoration: none;
+}
+
+#main-footer {
+	background-color: #FFF;
+}
+
+#main-footer {
+	background-color: #FFF;
+	padding-top: 10px;
+	padding-bottom: 5px;
+}
+
+#main-footer {
+	background-color: white;
+}
+
+article, aside, footer, header, hgroup, nav, section {
+	display: block;
+}
+
+.floating-box {
+	float: left;
+	width: 260px;
+	height: 150px;
+	margin: 5px;
+	border: 3px solid rgba(16, 172, 81, 1);
+	padding: 20px;
+}
+
+.et_pb_main_blurb_image {
+	text-align: center;
+}
+
+#et_pb_main_blurb_image {
+	text-align: center;
+}
+
+.color-h4 {
+	color: rgba(16, 172, 81, 1);
+	font-family: Raleway;
+	font-weight: bold;
+}
+
+.text-on-image-h1 {
+	color: rgba(255, 255, 255, 1);
+	font-family: Raleway;
+	font-size: 60px;
+}
+
+.text-on-image-h4 {
+	color: rgba(255, 255, 255, 1);
+	font-size: 20px;
+	font-weight: lighter;
+}
+
+#custom-background {
+	background-image:
+		url('http://recruitershack.com/wp-content/uploads/2016/02/applicant-register.jpg');
+	background-repeat: repeat;
+	background-position: top center;
+	background-attachment: fixed;
+	height: 350px;
+	width: 100%;
+	margin-top: -20px;
+}
+
+.image-padding {
+	padding-top: 150px;
+	padding-right: 30px;
+	padding-bottom: 50px;
+	padding-left: 80px;
+}
+
+.box-align {
+	padding-top: 50px;
+	padding: 70px;
+	width: 100%;
+	margin-left: 210px;
+}
+
+#box-text {
+	margin-left: 200px;
+	padding-top: 80px;
+	font-family: arial;
+	font-size: 16px;
+}
+
+/* for all nav bars*/
+.navbar {
+	box-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
+}
+
+#whiteColor-dropDown {
+	color: white;
+}
+
+.navbar-brand {
+	margin-bottom: 20px;
+	font-size: 18px;
+	line-height: 20px;
+}
+
+.nav li ul {
+	border-top: 3px solid #16b529;
+}
+
+nav a {
+	color: rgba(0, 0, 0, 0.6);
+}
+
+video {
+	position: fixed;
+	top: 439px;
+	left: 450px;
+	min-width: 100%;
+	min-height: 100%;
+	width: auto;
+	height: auto;
+	z-index: -100;
+	transform: translateX(-50%) translateY(-50%);
+	background-size: cover;
+	transition: 1s opacity;
+}
+
+#link-color a:hover {
+	background: #10ac51;
+}
+
+/* HOME page*/
+.video {
+	
+}
+
+.vertical-center {
+	min-height: 100%;
+	min-height: 100vh;
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	-moz-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	width: 100%;
+	-webkit-box-pack: center;
+	-moz-box-pack: center;
+	-ms-flex-pack: center;
+	-webkit-justify-content: center;
+	justify-content: center;
+}
+
+.header-content {
+	max-width: 800px;
+	margin: auto;
+	padding: 10px;
+	text-align: center;
+}
+
+.user-home {
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
+	padding: 15px 32px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	font-weight: bold;
+	box-sizing: border-box;
+}
+
+.link-line {
+	text-decoration: none;
+	background-image: linear-gradient(2deg, #0b8d41, #24c065);
+	color: rgba(255, 255, 255, 1);
+	font-weight: bold;
+	position: relative;
+	padding: 0.3em 1em;
+	border: 2px solid;
+	border-color: rgba(24, 185, 91, 1);
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	font-size: 20px;
+	line-height: 1.7em !important;
+	-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	transition: all 0.2s;
+}
+
+.link-line::after {
+	font-family: "ETmodules" !important;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	line-height: 1;
+	text-transform: none;
+	speak: none;
+	position: absolute;
+	font-size: 32px;
+	line-height: 1em; //
+	content: "\35";
+	-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	transition: all 0.2s;
+	margin-left: 0;
+	opacity: 0;
+}
+
+.link-line:hover::after {
+	position: absolute;
+	font-size: 32px;
+	line-height: 1em; //
+	content: "\35";
+	-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	transition: all 0.2s;
+	margin-left: 0;
+	opacity: 1;
+}
+
+.link-line:hover {
+	text-decoration: none;
+	color: rgba(255, 255, 255, 1);
+}
+
+#page-heading {
+	color: rgba(40, 40, 40, 1);
+	font-family: Raleway;
+	font-size: 56px;
+	font-weight: bolder;
+	text-shadow: rgb(255, 255, 255) 0px 0px 3px;
+}
+
+/* Recuiter Home */
+#rhome .header {
+	color: white;
+	background-image: url(/img/recruit-fast.jpg);
+}
+
+#rhome .header h1 {
+	background-image: none !important;
+	color: rgba(255, 255, 255, 1);
+	font-family: Raleway;
+	font-size: 56px;
+	font-weight: 900;
+	text-shadow: rgb(0, 0, 0) 1px 1px 4px;
+}
+
+.
+#rhome .header-content p {
+	color: rgba(255, 255, 255, 1);
+	font-family: Raleway;
+	font-size: 22px;
+	font-weight: bold;
+	text-shadow: rgb(0, 0, 0) 1px 1px 4px;
+}
+
+#rhome .navbar {
+	margin-bottom: 0px;
+	border: 0px;
+	box-shadow: none;
+}
+
+#rhome .count1 {
+	color: rgba(255, 255, 255, 1);
+	background-color: rgba(11, 141, 65, 1);
+	margin-right: 0px;
+	text-align: center;
+}
+
+#rhome .count2 {
+	color: rgba(255, 255, 255, 1);
+	background-color: rgba(11, 141, 65, 1);
+	margin-right: 0px;
+	text-align: center;
+}
+
+#rhome .count1 h2 {
+	font-size: 80px;
+}
+
+#rhome .count2 h2 {
+	font-size: 80px;
+}
+
+#rHomeBg-padding {
+	margin-top: -18px;
+}
+
+#vert {
+	resize: vertical;
+	height: 200px;
+	background-color: #eee;;
+	border-left: none;
+	border-top: none;
+	padding: 8px;
+	margin:10px;
+}
+
+#user-textarea {
+	width: 100%;
+	height: 87px;
+	border-style: 2px;
+	border-style: solid;
+	border-radius: 4px;
+}
+/*Added newly for howItWork(R) */
+.hide-scrollBar {
+	overflow-x: hidden;
+}
+
+.footer-container {
+	position: relative;
+	text-align: left;
+	position: relative;
+	width: 80%;
+	max-width: 1080px;
+	margin: auto;
+}
+
+.btn-group .btn-lg {
+	padding-left: 5px !important;
+	padding-right: 5px !important;
+}
+
+.input-align3 {
+	width: 535px;
+	height: 40px;
+	background-color: #eee;;
+	border-style: box;
+	border-top: none;
+}
+
+.btn {
+	background-color: green;
+}
+
+.paragraph-bottom {
+	margin-top: 15%;
+	margin-left: 20%;
+}
+
+#scrollBar {
+	overflow-y: hidden;
+}
+
+/* Job Seeker Home */
+
+
+.floating-box-jobseeker {
+	margin: 5px;
+	border: 1px solid #ffffff;
+	padding: 20px;
+}
+
+.floating-box-jobseeker1 {
+	border: 1px solid #ffffff;
+	padding: 20px;
+}
+
+#background-featured-jobseeker {
+	background-color: #666;
+	text-align: center;
+	padding: 15% 0;
+}
+
+#background-featured-recruiter {
+	background-color: #666;
+	text-align: center;
+	padding: 7%;
+}
+
+.text-color {
+	color: #ffffff;
+}
+
+.floating-box1-jobseeker {
+	float: left;
+	background-color: #10ac51
+}
+
+.floating-box3-jobseeker {
+	float: left;
+	background-color: #008040;
+}
+
+.box-c-p {
+	padding: 60px;
+}
+
+.box-div-jobseeker {
+	padding-top: 10px;
+}
+
+
+.background-image-jobseeker {
+	background-image: url("/img/recruiter-applicants-banner.jpg");
+	background-repeat: repeat;
+	background-position: fixed;
+	padding: 7% 14%;
+}
+
+.box-W-h-button {
+	width: 200px;
+	height: 50px;
+	border-radius: 5px;
+	background-color: #10ac51;
+}
+
+.box-W-h-button-a {
+	width: 230px;
+	height: 50px;
+	border-radius: 5px;
+}
+
+.error {
+	color: #ff0000;
+}
+
+.errorblock {
+	color: #000;
+	background-color: #ffEEEE;
+	border: 3px solid #ff0000;
+	padding: 8px;
+	margin: 16px;
+	word-break: break-all;
+}
+footer{
+	clear: both;
+	float: none;
+}
+/*Start of Login page css*/
+#contact_page {
+	padding-top: 80px;
+	padding-bottom: 40px;
+}
+
+#forget-link {
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+#remember-checkbox {
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+#no-scrollbar {
+	overflow-x: hidden;
+}
+/*End of Login page css*/
+.body-heading {
+	background-color: #10ac51;
+	text-align: center;
+	color: white;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 5%;
+	padding-bottom: 12px;
+	padding-top: 12px;
+	border-radius: 5px;
+}
+
+.floating-box-fe {
+	float: left;
+	margin: 5px;
+	padding-left: 50px;
+}
+
+.feature-align {
+	padding-left: 120px;
+}
+
+.background-image-recruiter {
+	background-image: url("/img/recruit-fast.jpg");
+	background-repeat: repeat;
+	background-position: fixed;
+	padding: 7% 14%;
+}
+
+#font-size-h1 {
+	font-size: 50px;
+}
+
+#font-size-p {
+	font-size: 25px;
+}
+
+.box-padding {
+	padding: 100px;
+	padding-left: 300px;
+}
+
+.floating-box1-recruiter {
+	float: left;
+	height: 260px;
+	background-color: #008040;
+}
+/*How It Works pages CSS*/
+#body-text {
+	padding-top: 40px;
+	padding-bottom: 40px;
+	font-family: "Raleway";
+	font-size: 18px;
+	line-height: 32px;
+	color: #737373;
+}
+
+.floating-box1-recruiter1 {
+	float: left;
+	height: 260px;
+	background-color: #10ac51;
+}
+
+#hiding {
+	overflow-x: hidden;
+}
+
+.inside-border {
+	padding: 4%;
+	border: 1px solid gray;
+	margin: 2%;
+	color: #828282;
+	border-color: #d4d4d4;
+}
+/*Privacy & Terms Pages CSS*/
+.text-heading {
+	margin-top: 20px;
+}
+
+.border-privacyPg {
+	padding: 30px;
+	padding-left: 30px;
+	border: none;
+	margin: 100px;
+	border-radius: 2px;
+}
+
+.body-text-size {
+	font-family: "Raleway";
+	font-size: 18px;
+	line-height: 32px;
+	color: #737373;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#no-hor-scrollbar {
+	overflow-y: hidden;
+}
+
+#white-login-link {
+	color: white;
+}
+
+.footer-size-unique {
+	width: 100%;
+	height: 400px;
+	border: none;
+}
+
+.bottom-links-color {
+	color: #10ac51;
+	text-decoration: none;
+}
+
+.box-W-h-account {
+	width: 230px;
+	height: 40px;
+	border-radius: 5px;
+	border-style: solid;
+}
+
+#account-pading-float {
+	float: left;
+	padding-left: 200px;
+	padding-top: 8px;
+}
+
+#user-padding-float {
+	float: left;
+	padding-left: 200px;
+	padding-top: 8px;
+}
+
+#footer-margin {
+	padding-top: 70px;
+	padding-left: 150px
+}
+/* for pills*/
+.nav-pills a {
+	color: black;
+	background-color: #eeeeee;
+}
+
+.nav-pills a:hover {
+	color: #c0c0c0;
+	border-radius: 0px;
+}
+
+.nav-pills .active a:hover {
+	color: #a8a8a8;
+	border-radius: 0px;
+}
+
+#ad-header-color {
+	background-color: black;
+	color: white;
+	padding-top: 10px;
+	margin-top: 120px;
+}
+
+#adm-header-position {
+	background-color: white;
+	padding-top: 5px;
+	margin-top: 0px;
+}
+
+.adm-list-group {
+	padding-top: 120px;
+}
+
+#adm-bottom-header-color {
+	color: white;
+}
+
+.adm-img-spacing {
+	margin-top: 0px;
+	padding-top: 20px;
+}
+
+#adm-list-group-padding {
+	margin-top: 0px;
+}
+/*Search Agencies Page CSS*/
+.border-SagencyPg {
+	width: 550px;
+	height: 300px;
+	padding: 30px;
+	padding-top: 40px;
+	padding-left: 30px;
+	border: none;
+	margin-top: 65px;
+	margin-left: 580px;
+	border-radius: 2px;
+}
+
+.top-boxes {
+	color: #717a8f;
+	border-style: solid;
+	background-color: #f3f6f9;
+	height: 40px;
+	width: 230px;
+}
+
+#Ubutton-spacing {
+	margin-top: 30px;
+	box-shadow: 0 0 0 3px #00a52c;
+}
+
+* { &, &:before , &:after {
+    box-sizing : border-box;
+	
+}
+
+}
+.range-slider__range {
+	background: #e9edf2;
+	border-radius: 20px;
+	border: 0;
+	height: 8px;
+	box-shadow: none;
+	margin-top: 12px;
+}
+
+.range-slider__value {
+	position: relative;
+	line-height: 20px;
+	text-align: center;
+	border-radius: 5px;
+	margin-left: 0px;
+}
+
+#adm-list-group-padding {
+	margin-top: 0px;
+}
+
+.box-update {
+	height: 50px;
+	width: 267px;
+	border-radius: 2px;
+}
+
+.padding-recruiter-edit {
+	padding-left: 395px;
+}
+
+.box-update1 {
+	height: 50px;
+	width: 200px;
+	border-radius: 2px;
+}
+
+#user-home {
+	background-color: #e4e4e4; /* Green */
+	border: none;
+	color: #acacac;
+	padding: 15px 32px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
+	padding: 15px 32px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	font-weight: bold;
+	box-sizing: border-box;
+}
+
+#box-W-h {
+	width: 605px;
+	height: 40px;
+	border-radius: 1px;
+	border-style: solid;
+}
+
+.um-followers-rc {
+	display: inline-block;
+	font-size: 13px;
+	line-height: 20px;
+	text-transform: uppercase;
+}
+
+.um-followers-bar {
+	padding: 10px 10px 10px 0;
+	padding: 10px 10px 10px 0;
+}
+
+.um-header {
+	position: relative;
+	padding: 0 0 25px;
+	border-bottom: solid 2px #eee;
+	min-height: 85px;
+	box-sizing: content-box !important;
+}
+/* jobseeker profile view*/
+.data-border-align {
+	width: 350px;
+	height: 40px;
+	border-radius: 1px;
+	border-top-style: solid;
+	border-left-style: none;
+	border-bottom-style: none;
+	border-right-style: none;
+}
+/*featuredRecruiters css */
+#body-heading {
+	background-color: rgba(16, 172, 81, 1);
+	color: rgba(255, 255, 255, 1);
+	font-family: arial;
+	font-weight: bolder;
+	padding-bottom: 12px;
+	padding-top: 12px;
+	text-align: center;
+}
+
+#no-ver-scrollbar {
+	overflow-x: hidden;
+}
+
+/*search agencies css */
+.job_filters {
+	line-height: 1.75;
+	background-color: #fff;
+	box-shadow: rgba(0, 0, 0, .03) 0 2px 0;
+	border-radius: 4px;
+	padding: 2em;
+}
+
+.agencies {
+	-moz-column-count: 2;
+	-moz-column-gap: 20px;
+	-webkit-column-count: 2;
+	-webkit-column-gap: 20px;
+	column-count: 2;
+	column-gap: 20px;
+}
+
+#job_listings-map {
+	height: 475px;
+}
+
+.border-cart {
+	float: left;
+	width: 1170px;
+	height: 50px;
+	margin: 5px;
+	border: 3px solid #00c100;
+	padding: 20px;
+	border-radius: 4px;
+}
+
+.footer-size-unique1 {
+	width: 100%;
+	height: 285px;
+	border: none;
+}
+/*Recruiter Register Page CSS addons*/
+.label-color-font-size {
+	color: #555555;
+	font-size: 15px !important;
+	font-weight: 600;
+}
+
+/* Password reset page css*/
+.password-reset-div1 {
+	border-radius: 10px;
+	padding: 10%;
+	margin: 5% 0;
+}
+#reset-sidebar{
+	margin:4% 0;
+}
+.form-search .input-append{
+	padding: 10%;
+}
+.password-reset-div1 h4{
+	text-align:center;
+}
+
+.password-reset-div2 {
+	border-radius: 10px;
+}
+
+.password-reset-div3 {
+	border-radius: 10px;
+}
+.password-reset-div3>div{
+	margin:5%;
+}
+
+.password-reset-div4 {
+	border-radius: 10px;
+}
+.password-reset-div4>div{
+	margin:5%;
+}
+#unique .points{
+	padding:0;
+	padding-bottom:10px;
+}
+#unique .points li{
+	list-style:none;
+}
+
+#search-bar {
+	background-color: #f2f2f2;
+}
+
+.modal-content {
+	height: 300px;
+	width: 400px;
+	margin-top: 180px;
+	margin-left: 80px;
+	background-color: #f2f2f2;
+}
+
+#down-lnk {
+	padding-bottom: 0px;
+}
+
+#down-lnk1 {
+	padding-bottom: 0px;
+}
+/*View Cart page css*/
+.table-position {
+	margin-top: 35px;
+	padding-top: 60px;
+	padding-left: 80px;
+	padding-right: 30px;
+}
+
+.floating-box-jobseeker5 {
+	float: left;
+	width: 1000px;
+	height: 70px;
+	margin: 0px;
+	border: 1px solid #cccccc;
+	padding: 10px;
+}
+
+#enter-coupon {
+	background-color: #f2f2f2;
+}
+
+#calculation-part {
+	font-size: 16px;
+	margin: 1.25em 0;
+	padding: 0 0 .75em;
+	border-bottom: 2px solid #c9c7c1;
+	padding-top: 30px;
+}
+
+#bottom-navi {
+	margin-top: 20px;
+}
+
+#checkout-button {
+	margin-bottom: 50px;
+}
+/* Jobseeker Profile Edit*/
+.jobseeker-border-align {
+	width: 300px;
+	height: 40px;
+	border-radius: 3px;
+	border-style: solid;
+}
+
+#jobseeker-textarea {
+	width: 850px;
+	height: 87px;
+	border-style: 2px;
+	border-style: solid;
+	border-radius: 4px;
+}
+
+#biography-textarea {
+	width: 555px;
+	height: 100px;
+	border-style: 3px;
+	border-style: solid;
+	border-radius: 4px;
+}
+
+.position {
+	width: 400px;
+}
+
+#rProfileEdit-topPort {
+	padding-top: 100px;
+}
+
+.wrapper {
+	position: relative;
+}
+
+.wrapper .glyphicon {
+	position: absolute;
+	margin-top: 70px;
+	margin-left: 100px;
+}
+/*For all navbars*/
+#match-border{
+	margin-top:20px;
+}
+.navbar-toggle .icon-bar {
+    background: #50A63F;
+}
+#recruiter{
+	margin:5px 0;
+}
+
+ul.featured{
+	list-style-type: none;
+}
+
+ul.featured li{
+	display: inline;
+}
+.nav.side-bar{
+	text-align:left;
+}
+.nav.side-bar .glyphicon.left{
+	position: absolute;
+	right: 10px;
+	top: 10px;
+	font-size: 15px;
+	opacity: 0.6;
+}
+#rProfileEdit-topPort .dropdown-toggle .glyphicon{
+	position: absolute;
+	margin-left: 75px;
+	margin-top: 75px;
+	z-index:2;
+}
+#rProfileEdit-topPort .navbar-nav > li > a{
+	background-color: #bab9b9;
+}
+#rProfileEdit-topPort .navbar-nav{
+	float:none;
+}
+#rProfileEdit-topPort .dropdown-toggle img{
+	opacity: 0.5;
+}
+#rProfileEdit-topPort .dropdown-toggle img:hover{
+	opacity: 0.7;
+}
+.input-lg{
+	max-width: 350px;
+}
+.nav.side-bar li{
+	max-width: 350px;
+}
+.navbar-brand img{
+	height:40px;
+	width:180px;
+}

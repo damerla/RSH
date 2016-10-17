@@ -1,0 +1,22 @@
+.input-align {
+	width: 1105px;
+	height: 90px;
+	background-color: #eee;;
+	border-left: none;
+	border-top: none;
+}
+
+.input-align1 {
+	width: 535px;
+	height: 40px;
+	background-color: #eee;;
+	border-left: none;
+	border-top: none;
+}
+
+#submit-button {
+	width: 250px;
+	height: 40px;
+	border-right: green;
+	border-bottom: none;
+}

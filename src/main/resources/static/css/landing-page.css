@@ -1,0 +1,43 @@
+a.go-to-account {
+    font-size: 16px !important;
+    border: 1px solid #00c648;
+    padding: 8px;
+    display: block;
+    margin-top: 5vh;
+    border-radius: 6px !important;
+}
+h2.upgrade-now {
+    font-size: 18px !important;
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
+    text-align: justify;
+}
+hr.color{
+	display: #eee;
+    border-style: inset;
+    border-width: 0.5px
+}
+input#um_account_submit.um-button.enterprise-upgrade {
+    font-size: 16px !important;
+    border: 1px solid #00C648 !important;
+    color: #FFFFFF;
+    background-color: #00C648;
+    margin-bottom: 5vh;
+    border-radius: 6px !important;
+}
+input.um-button[type="submit"], input.um-button[type="submit"]:focus {
+    vertical-align: middle !important;
+    height: auto !important;
+    font-size: 15px;
+    cursor: pointer !important;
+    width: 100%;
+    box-shadow: none;
+    text-shadow: none;
+    font-family: inherit;
+    outline: none !important;
+    margin: 0;
+    opacity: 1;
+    -webkit-appearance: none;
+}
